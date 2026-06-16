@@ -49,14 +49,14 @@ A correlation matrix was generated to identify relationships between variables.
 * Students with lower attendance tend to have lower final scores.
 
 # Project Structure
-EDA-Student-Performance-Analysis/
- student_data.csv
- eda_analysis.py
- correlation_heatmap.png
- hours_vs_score.png
- attendance_distribution.png
- score_distribution.png
- README.md
+EDA-Student-Performance-Analysis
+ 1 student_data.csv
+ 2 eda_analysis.py
+ 3 correlation_heatmap.png
+ 4 hours_vs_score.png
+ 5 attendance_distribution.png
+ 6 score_distribution.png
+ 7 README.md
 
 # Conclusion
 The analysis shows that study hours, attendance, and previous academic performance are important factors influencing student success.
